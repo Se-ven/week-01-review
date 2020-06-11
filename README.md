@@ -9,3 +9,6 @@ Students will fork and clone. Then we will add to the repo together
 
 "How many/What parts are in an HTML doc"
     Two--Head and Body
+
+"Two ways to reference CSS styles, what are the tags?"
+    <Style>, <link>
