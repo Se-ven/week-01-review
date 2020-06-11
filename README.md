@@ -12,3 +12,6 @@ Students will fork and clone. Then we will add to the repo together
 
 "Two ways to reference CSS styles, what are the tags?"
     <Style>, <link>
+
+"How many ways can you declare a variable?"
+    <var> name = "Nick"   <const> e = "euler's constant" <let> a = 1
